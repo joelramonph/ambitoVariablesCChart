@@ -1,0 +1,14 @@
+/home/jivited/Escritorio/Incubadora/certificacionC#/ambitoVariablesCChart/bin/Debug/net7.0/ambitoVariablesCChart
+/home/jivited/Escritorio/Incubadora/certificacionC#/ambitoVariablesCChart/bin/Debug/net7.0/ambitoVariablesCChart.deps.json
+/home/jivited/Escritorio/Incubadora/certificacionC#/ambitoVariablesCChart/bin/Debug/net7.0/ambitoVariablesCChart.runtimeconfig.json
+/home/jivited/Escritorio/Incubadora/certificacionC#/ambitoVariablesCChart/bin/Debug/net7.0/ambitoVariablesCChart.dll
+/home/jivited/Escritorio/Incubadora/certificacionC#/ambitoVariablesCChart/bin/Debug/net7.0/ambitoVariablesCChart.pdb
+/home/jivited/Escritorio/Incubadora/certificacionC#/ambitoVariablesCChart/obj/Debug/net7.0/ambitoVariablesCChart.GeneratedMSBuildEditorConfig.editorconfig
+/home/jivited/Escritorio/Incubadora/certificacionC#/ambitoVariablesCChart/obj/Debug/net7.0/ambitoVariablesCChart.AssemblyInfoInputs.cache
+/home/jivited/Escritorio/Incubadora/certificacionC#/ambitoVariablesCChart/obj/Debug/net7.0/ambitoVariablesCChart.AssemblyInfo.cs
+/home/jivited/Escritorio/Incubadora/certificacionC#/ambitoVariablesCChart/obj/Debug/net7.0/ambitoVariablesCChart.csproj.CoreCompileInputs.cache
+/home/jivited/Escritorio/Incubadora/certificacionC#/ambitoVariablesCChart/obj/Debug/net7.0/ambitoVariablesCChart.dll
+/home/jivited/Escritorio/Incubadora/certificacionC#/ambitoVariablesCChart/obj/Debug/net7.0/refint/ambitoVariablesCChart.dll
+/home/jivited/Escritorio/Incubadora/certificacionC#/ambitoVariablesCChart/obj/Debug/net7.0/ambitoVariablesCChart.pdb
+/home/jivited/Escritorio/Incubadora/certificacionC#/ambitoVariablesCChart/obj/Debug/net7.0/ambitoVariablesCChart.genruntimeconfig.cache
+/home/jivited/Escritorio/Incubadora/certificacionC#/ambitoVariablesCChart/obj/Debug/net7.0/ref/ambitoVariablesCChart.dll
