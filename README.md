@@ -1,0 +1,2 @@
+# ambitoVariablesCChart
+practica 
